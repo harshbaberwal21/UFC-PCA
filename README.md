@@ -1,4 +1,4 @@
-# UFC-PCA
+[UFC-PCA]
 Identifying structure in UFC data using PCA. Studying the UFC data can help understand the game dynamics better and to make predictions, because just like boxing, gambling on outcome is big business.
 
 
