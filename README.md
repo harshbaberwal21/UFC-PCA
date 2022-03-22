@@ -7,6 +7,8 @@ In an attempt to find structure across all the features of a UFC fight, as measu
 
 ![Component 1 Weights](https://github.com/harshbaberwal21/UFC-PCA/blob/ee6b09f7b18d5da3c2ef1e3a9434a13160789805/Comp1%20Weights.png)
 
+*The number of strikes landed on fighter’s leg by opponents in the fighter’s career till that fight combined. Could be taken to indicate the fighter’s ability to take hits on leg and block by the same.*
+
 #### Most Influential Features:
 1. Strikes landed  to head and body 
 2. Strikes landed  when in clench with the opponent
@@ -14,4 +16,4 @@ In an attempt to find structure across all the features of a UFC fight, as measu
 
 
 
-# This was part of a group project wherein multiple statistical techniques were applied to UFC dataset to test various hypothesees.
+##### This was part of a group project wherein multiple statistical techniques were applied to UFC dataset to test various hypothesees.
