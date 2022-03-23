@@ -1,5 +1,5 @@
 # UFC-PCA
-Identified structure in UFC data using PCA. Studying the UFC data can help better understand the game dynamics and to make accurate predictions, because just like boxing, gambling on outcome is big business.
+*Identified structure in UFC data using PCA. Studying the UFC data can help better understand the game dynamics and to make accurate predictions, because just like boxing, gambling on outcome is big business.*
 
 This project was carried out in R and sought out from a statistical analysis perspective. To identify the structure, PCA was used to build components (or factors) and these were further analyzed to identify the latent features in the data.
 
